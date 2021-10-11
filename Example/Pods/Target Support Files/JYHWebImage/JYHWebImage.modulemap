@@ -1,0 +1,6 @@
+framework module JYHWebImage {
+  umbrella header "JYHWebImage-umbrella.h"
+
+  export *
+  module * { export * }
+}

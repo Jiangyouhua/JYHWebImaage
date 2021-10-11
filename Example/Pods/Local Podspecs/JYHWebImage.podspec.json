@@ -1,0 +1,22 @@
+{
+  "name": "JYHWebImage",
+  "version": "0.1.0",
+  "summary": "A short description of JYHWebImage.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/3424079/JYHWebImage",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "3424079": "jiangyouhua@daorealm.com"
+  },
+  "source": {
+    "git": "https://github.com/3424079/JYHWebImage.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "JYHWebImage/Classes/**/*"
+}
